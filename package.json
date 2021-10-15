@@ -1,0 +1,24 @@
+{
+  "name": "dynamic-form",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.4.1",
+    "@heroicons/vue": "^1.0.4",
+    "@tailwindcss/forms": "^0.3.4",
+    "lodash-es": "^4.17.21",
+    "tailwindcss": "^2.2.17",
+    "uuid": "^8.3.2",
+    "vee-validate": "^4.5.2",
+    "vue": "^3.2.16",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "vite": "^2.6.4"
+  }
+}
