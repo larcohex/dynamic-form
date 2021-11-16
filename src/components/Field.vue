@@ -110,7 +110,6 @@ export default {
       required: true,
     },
   },
-  emits: ["change"],
   setup(props) {
     const hasId = () => has(props.field, "id");
     const isArray = () => has(props.field, "addLabel");
